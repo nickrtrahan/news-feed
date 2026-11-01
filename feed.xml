@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
 <title>World News Brief</title><link>https://nickrtrahan.github.io/news-feed/</link><description>Twice-daily world news and conflict brief from X</description>
-<item><title>Welcome to your World News Brief</title><link>https://nickrtrahan.github.io/news-feed/a/20261101-0407.html</link><guid>https://nickrtrahan.github.io/news-feed/a/20261101-0407.html</guid><pubDate>Sun, 01 Nov 2026 04:07:00 +0000</pubDate><description><![CDATA[<p>Your feed is set up. The first full brief arrives at the next 7 AM or 7 PM ET run.</p>
-]]></description><content:encoded><![CDATA[<p>Your feed is set up. The first full brief arrives at the next 7 AM or 7 PM ET run.</p>
-]]></content:encoded></item>
+<item><title>Welcome to your World News Brief</title><link>https://nickrtrahan.github.io/news-feed/a/20261101-0409.html</link><guid>https://nickrtrahan.github.io/news-feed/a/20261101-0409.html</guid><enclosure url="https://nickrtrahan.github.io/news-feed/epub/20261101-0409.epub" type="application/epub+zip" length="0"/><pubDate>Sun, 01 Nov 2026 04:09:00 +0000</pubDate><description><![CDATA[<p>Your feed is set up. The first full brief arrives at the next 7 AM or 7 PM ET run.</p>
+<p><a href="https://nickrtrahan.github.io/news-feed/epub/20261101-0409.epub">Download as EPUB</a></p>]]></description><content:encoded><![CDATA[<p>Your feed is set up. The first full brief arrives at the next 7 AM or 7 PM ET run.</p>
+<p><a href="https://nickrtrahan.github.io/news-feed/epub/20261101-0409.epub">Download as EPUB</a></p>]]></content:encoded></item>
 </channel></rss>
